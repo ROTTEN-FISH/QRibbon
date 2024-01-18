@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/icon/cut.png</file>
+        <file>Resources/icon/file-text-o.png</file>
+        <file>Resources/icon/folder-open.png</file>
+        <file>Resources/icon/fullscreen.png</file>
+        <file>Resources/icon/paste.png</file>
+        <file>Resources/icon/refresh.png</file>
+        <file>Resources/icon/remove.png</file>
+        <file>Resources/icon/reply.png</file>
+        <file>Resources/icon/rotate-left.png</file>
+        <file>Resources/icon/rotate-right.png</file>
+        <file>Resources/icon/save.png</file>
+        <file>Resources/icon/share.png</file>
+        <file>Resources/Sample Pattern Find - 01 Fail.png</file>
+        <file>Resources/circletest.png</file>
+        <file>Resources/image/back.png</file>
+        <file>Resources/image/backIso.png</file>
+        <file>Resources/image/bottom.png</file>
+        <file>Resources/image/color.png</file>
+        <file>Resources/image/front.png</file>
+        <file>Resources/image/frontIso.png</file>
+        <file>Resources/image/heightRamp.png</file>
+        <file>Resources/image/left.png</file>
+        <file>Resources/image/open.png</file>
+        <file>Resources/image/pickPoints.png</file>
+        <file>Resources/image/reset.png</file>
+        <file>Resources/image/right.png</file>
+        <file>Resources/image/up.png</file>
+    </qresource>
+</RCC>
